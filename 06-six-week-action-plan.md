@@ -6,17 +6,22 @@ Check boxes as you go. Each week is ~4 hours. Do **Week 0 first — it's the one
 
 ---
 
-## Week 0 — Clear the blocker (do before anything else)
-- [ ] **Read your METU contract / ask HR:** does your post allow outside paid consultancy income, and through what mechanism (direct, *döner sermaye*, permission required)? See `07-turkiye-tax-setup.md`. *Everything downstream depends on this answer.*
-- [ ] Confirm your age re: *genç girişimci* exemption (only relevant if under 29).
-- [ ] Decide: full formal setup now, or start with low-friction lines (expert networks / occasional invoices) and formalize once income is proven?
+## Week 0 — Blocker: CLEARED ✅
+- [x] **METU contract allows outside consultancy** (you confirmed it's flexible). The main gate is open — you can register a *şahıs şirketi* and take direct/expert-network work.
+- [ ] Confirm your age re: *genç girişimci* exemption (only relevant if under 29 — otherwise it doesn't apply and nothing changes).
+- [ ] Decide: full formal setup now, or start with the low-friction expert-network line and formalize once income is proven. **Recommended: start expert networks now, register the company once calls are coming in.**
 
-## Week 1 — Foundations + fastest line
-- [ ] Fill the brackets in `03-service-descriptions.md` (name, email, ORCID/page). Export the top service to PDF.
-- [ ] Set up a clean professional email signature (name, one-line specialism, ORCID). No marketing.
-- [ ] **Register with 3–4 expert networks** (GLG, Guidepoint, AlphaSights, Dialectica) — ~1 hour total. This is the fastest hard-currency line and needs no outreach. *(Skip only if you've firmly ruled it out.)*
-- [ ] Open/confirm a **Wise or Payoneer** account for receiving EUR/USD (needed for the export-service exemption).
-- [ ] Book a **1-hour consult with an SMMM** (accountant) for Week 2 — bring the questions from `07-...`.
+## Week 1 — Launch the expert-network line (your lead) 🚀
+*Your chosen starting point. Full details, profile text, and rules are in `08-expert-network-starter-kit.md`.*
+- [ ] **Register with GLG and Guidepoint** — paste the ready profile from `08-...`. (~50 min)
+- [ ] **Register with AlphaSights.** (~20 min)
+- [ ] Set your listed rate at **US$400–450/hr** at intake (don't go below $300).
+- [ ] Open/confirm a **Wise or Payoneer** account for receiving USD/EUR. (~20 min)
+- [ ] Read the one-page **compliance rules** in `08-...` once, so you know what to decline.
+- [ ] Book a **1-hour consult with an SMMM** (accountant) for Week 2 — bring the questions from `07-...` and `08-...`.
+- [ ] *(Optional, parallel)* Fill the brackets in `03-service-descriptions.md` and set a clean email signature — you'll need these in Week 3 for the direct-consulting line.
+
+**After Week 1 the expert-network line runs itself:** requests arrive by email; accept the good ones, decline the rest. Weeks 2–6 below build your *second and third* income lines (direct econometrics consulting + EU data work) on top of it.
 
 ## Week 2 — Decide the legal path + build the target list
 - [ ] Have the SMMM call. Decide: *şahıs şirketi / serbest meslek* now, or later. Get the monthly bookkeeping cost.

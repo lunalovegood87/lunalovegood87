@@ -32,6 +32,7 @@ Hard constraint respected: **no content creation, no personal brand, no audience
 | `05-pricing-sheet.md` | Pricing sheet for the top 3: units, rates, packages, and how to quote. |
 | `06-six-week-action-plan.md` | Week-by-week checklist. ≤5 hrs/week. |
 | `07-turkiye-tax-setup.md` | Lightest-touch invoicing route from Türkiye, the export-service exemption, and the METU outside-work risk to check. |
+| `08-expert-network-starter-kit.md` | **Your chosen starting line.** Ready-to-paste expert-network profile, which networks to join (no LinkedIn needed), rate to set, compliance rules, and this week's 90-minute checklist. |
 
 ## The top 3 (respecting your channel choice)
 
