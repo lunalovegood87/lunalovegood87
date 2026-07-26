@@ -1,5 +1,11 @@
 # Income Streams from Your Research Skills — Working Pack
 
+> ## ⚠️ GÜNCEL YÖN: Türkçe pazar (İngilizce gerektirmez) — `TR-*` dosyaları
+> Sonradan netleşen bir kısıt nedeniyle plan **yeniden kuruldu.** İleri düzey İngilizce (özellikle konuşma) bir engel olduğu için, artık **İngilizce/döviz odaklı** hat (aşağıdaki `01`–`08` dosyaları) değil, **Türkçe-yurt içi (TL)** hat esastır. Döviz, ileride "arka plan uzmanı" (iki dilli ortak/aracı) modeliyle eklenecek.
+>
+> **Şu an geçerli dosyalar:** `TR-01-strateji.md` → `TR-02-hizmetler.md` → `TR-03-fiyatlar.md` → `TR-04-mesajlar.md` → `TR-05-plan-6hafta.md` → `TR-06-karsilastirma.xlsx`.
+> **`01`–`08` dosyaları** artık *ikincil*: döviz aşamasına geçtiğinde (ortakla) kullanılacak referans olarak duruyor. `07-turkiye-tax-setup.md` o aşamada geçerli; yurt içi TL vergisi için `TR-01`e bak.
+
 Prepared 2026-07-25. All figures in EUR unless noted. This folder is a decision pack, not advice to file away: the spreadsheet ranks options, the top-3 assets are ready to send, and the 6-week plan tells you what to do each week.
 
 > **Not tax or legal advice.** `07-turkiye-tax-setup.md` gives you the lay of the land and the questions to put to an SMMM (mali müşavir). Verify anything before you register or invoice.
