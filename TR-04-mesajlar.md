@@ -97,6 +97,31 @@ Her segment için: **nerede bulacağın** + **hazır mesaj**. Sosyal medya yok �
 
 ---
 
+## 🎯 Kişiselleştirilmiş örnek — belirli bir hocaya (akademisyen segmenti)
+
+Aşağıdaki şablon "doldur-gönder" değil; gerçek bir hedefe göre yazılmış bir **örnek**. Senaryo: bölgesel kalkınma üzerine panel veriyle çalışan, yakın tarihli makalesinde dinamik ilişki olmasına rağmen statik model kurmuş bir hoca. Sen sistem GMM desteği öneriyorsun.
+
+> **Konu: "[Makale başlığı]" çalışmanız için dinamik panel (GMM) yöntem desteği**
+>
+> Sayın Prof. Dr. [Soyadı],
+>
+> [Dergi/kurum] yayımladığınız **"[makale başlığı]"** çalışmanızı ilgiyle okudum; **[somut bulgu — ör. Ar-Ge harcamalarının bölgesel verimliliğe etkisini]** panel veriyle incelemeniz benim de çalıştığım alana çok yakın. Modelde **gecikmeli bağımlı değişken / içsellik** söz konusu olduğu için, sabit etkiler yerine **sistem GMM**'in tahminleri daha sağlam kılabileceğini ve bunun hakemlerin de sıklıkla sorduğu bir nokta olduğunu düşündüm.
+>
+> ODTÜ/TEKPOL'de doktora sonrası araştırmacıyım; dinamik paneller (sistem/fark GMM), GEE ve Driscoll–Kraay konularında akademisyenlere analiz ve yöntem desteği veriyorum. Yeni bir çalışmanızda ya da bir hakem revizyonunda bu tür bir analizi birlikte kurabiliriz; katkım şeffaf ve adı geçen bir danışmanlıktır.
+>
+> Uygunsanız 20 dakikalık kısa bir görüşmede somut olarak nasıl yardımcı olabileceğime bakabiliriz. Uygun değilse de birkaç yaklaşım/kaynak önerisini seve seve paylaşırım.
+>
+> Saygılarımla, [Ad] · [e-posta] · [telefon]
+
+**Bu mesajı "kişisel" yapan 3 kanca (her hocaya uygularken tekrarla):**
+1. **İlk cümlede o kişinin belirli bir çalışmasını ve somut bir bulgusunu** adıyla an — "çalışmalarınızı takip ediyorum" gibi genel laf değil.
+2. **O çalışmanın ihtiyaç duyduğu ama tam kullanmadığı yöntemi** işaret et (senin uzmanlığın tam da orası) ve bunu **hakem endişesine** bağla — böylece somut fayda görünür.
+3. **Etik/şeffaf çerçeveyi** (adı geçen danışmanlık) baştan koy — seni tez-merkezlerinden ayırır.
+
+**30 dakikalık ön hazırlık:** Hedef hocanın **son 1 makalesini** aç, "hangi yöntemi kullansa daha güçlü olurdu?" diye bak (çoğu ampirik iktisat/işletme makalesinde bu: dinamik panel, içsellik, mekânsal bağımlılık, ağ etkisi). Bulduğun boşluğu 1. cümleye koy. Gerisi şablon.
+
+---
+
 ## Hatırlatma mesajı (yanıt gelmezse ~5 iş günü sonra, bir kez)
 > **Konu: Re: [özgün konu]**
 >
